@@ -27,7 +27,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "owuEE55gau0paEXip0-T012LmRTM",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "oYpc8smtGMKygEhSjbYpYdGOkuu9Sa1fb-s8j6WTaYU",
+      useTemplateId: "AdYrOmb7HozvF_xCeIx3Rda2wGIb4TrfXvzw6nXdwQ4",
       // 所在省份
       province: "海南",
       // 所在城市
@@ -108,9 +108,9 @@ export const config = {
   CALLBACK_USERS: [
     {
       // 一般都填自己
-      name: "自己",
+      name: "推送",
       // 自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "",
+      id: "owuEE505_aCWe9lrCYnj6LuVRZZc",
     },
     // 你可以不断按格式往下增加
     // ...
