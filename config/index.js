@@ -27,7 +27,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "owuEE55gau0paEXip0-T012LmRTM",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "UhZimdkcwQgYeymjd_dckF7L3INgzZl0oBTQxEwmwIc",
+      useTemplateId: "oYpc8smtGMKygEhSjbYpYdGOkuu9Sa1fb-s8j6WTaYU",
       // 所在省份
       province: "海南",
       // 所在城市
@@ -41,8 +41,8 @@ export const config = {
       // 专属节日提醒，如果你在这里填写了节日提醒，就不会执行FESTIVALS的提醒了, 和FESTIVALS的配置方法相同，可以往下查看，我这里就不重复写了
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
-        {"type": "*生日", "name": "老婆", "year": "1997", "date": "09-09"},
-        {"type": "节日", "name": "结婚纪念日", "year": "2020", "date": "09-03"},
+//         {"type": "*生日", "name": "老婆", "year": "1997", "date": "09-09"},
+//         {"type": "节日", "name": "结婚纪念日", "year": "2020", "date": "09-03"},
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {"type": "生日", "name": "恋姿宝宝", "year": "1997", "date": "12-12"},
         {"type": "节日", "name": "在一起纪念日", "year": "2019", "date": "02-05"},
@@ -174,9 +174,9 @@ export const config = {
     // 在一起的日子
     {"keyword": "love_day", date: "2019-02-05"},
     // 结婚纪念日
-    {"keyword": "marry_day", date: "2022-09-09"},
+//     {"keyword": "marry_day", date: "2022-09-09"},
     // 退伍日
-    {"keyword": "ex_day", date: "2022-09-10"},
+//     {"keyword": "ex_day", date: "2022-09-10"},
     // 你可以不断按格式往下增加
     // ...
   ],
